@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  Getstart is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  GETSTART is a get started documentation websites, which help you run some framwork demo step by step.
 </p>
 
 <p align="center">
